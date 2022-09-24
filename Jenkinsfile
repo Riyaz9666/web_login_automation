@@ -1,4 +1,4 @@
 @Library("jmsdevops@main") _
 pushDockerHub(
-dockerRepoName: 'hello-world-java-app'
+dockerRepoName: 'web_login_automation'
 )
